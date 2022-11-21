@@ -9,4 +9,4 @@ namespace: javaapp
 images:
 - name: javaapp
   newName: matheusnb/argocd
-  newTag: 511812969d364ee0bc34ac1eaaee605164ed71da
+  newTag: 27b2f0ea69dc25a254800ff1084320ca809a2c2e
