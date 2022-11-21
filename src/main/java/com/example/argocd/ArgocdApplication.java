@@ -16,6 +16,6 @@ public class ArgocdApplication {
 
     @GetMapping("/")
     public String index() {
-        return "Olá mundo!!";
+        return "FIZ DAR BOM!!";
     }
 }
